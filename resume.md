@@ -2,7 +2,7 @@
 
 nancewm@appstate.edu
 
-![aerial](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.aerialarchives.com%2Fstock%2Fimg%2FAHLV2034.jpg&imgrefurl=https%3A%2F%2Fwww.aerialarchives.com%2FAerial-Maps-of-New-York.htm&tbnid=UuI8QTCPHLpDlM&vet=12ahUKEwjxg4nP5svuAhXGs1MKHdXpBHIQMygZegUIARDnAQ..i&docid=KiPDGvM6Qa5arM&w=525&h=265&q=map%20aerial&ved=2ahUKEwjxg4nP5svuAhXGs1MKHdXpBHIQMygZegUIARDnAQ)
+[Aerial Image of New York](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.aerialarchives.com%2Fstock%2Fimg%2FAHLV2034.jpg&imgrefurl=https%3A%2F%2Fwww.aerialarchives.com%2FAerial-Maps-of-New-York.htm&tbnid=UuI8QTCPHLpDlM&vet=12ahUKEwjxg4nP5svuAhXGs1MKHdXpBHIQMygZegUIARDnAQ..i&docid=KiPDGvM6Qa5arM&w=525&h=265&q=map%20aerial&ved=2ahUKEwjxg4nP5svuAhXGs1MKHdXpBHIQMygZegUIARDnAQ)
 
 ## Summary
 
@@ -29,4 +29,4 @@ June 2019 - August 2019
 * Demonstrated professional behavior and strong problem-solving skills while interacting with co-workers, campers, and parents.
 
 ## Portfolio
-https://wmnance.wixsite.com/portfolio
+[Portfolio](https://wmnance.wixsite.com/portfolio)
